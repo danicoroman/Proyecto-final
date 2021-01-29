@@ -1,5 +1,5 @@
 # Anteproyecto
-Proyecto final Daniel Corona
+Proyecto final de Daniel Corona
 
 <h1>Título</h1> 
 <i>Cine100%</i>
