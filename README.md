@@ -14,6 +14,6 @@ Puede servir,para el admin. poner sus recomendaciones en esta web y para los cli
 
 <h1>Herramientas necesarias</h1>
 <ul>
-<li>-Django para las bases de datos y la interatividad</li> 
-<li>-Html para la estructura de la página</li> 
-<li>-Bootstrp y CSS para la maquetación y estilos de la web</li>
+<li>Django para las bases de datos y la interatividad</li> 
+<li>Html para la estructura de la página</li> 
+<li>Bootstrp y CSS para la maquetación y estilos de la web</li>
