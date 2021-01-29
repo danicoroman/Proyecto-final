@@ -13,7 +13,7 @@ dentro de cada película habría una sinopsis,una crítica profesional,una de un
 Puede servir,para el admin. poner sus recomendaciones en esta web y para los clientes, el hecho de ir siguiendo las recomendaciones y poder ver si quisiesen la película que más le llamase la atención.
 
 <h1>Herramientas necesarias</h1>
-
--Django para las bases de datos y la interatividad
--Html para la estructura de la página
--Bootstrp y CSS para la maquetación y estilos de la web
+<ul>
+<li>-Django para las bases de datos y la interatividad</li> 
+<li>-Html para la estructura de la página</li> 
+<li>-Bootstrp y CSS para la maquetación y estilos de la web</li>
