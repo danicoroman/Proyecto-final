@@ -2,7 +2,7 @@
 Proyecto final de Daniel Corona
 
 <h1>Título</h1> 
-<i>Cine100%</i>
+<i>Cine100x100</i>
 <h1>Descripción</h1>
 
 Se va a relizar una página web donde los usuarios tendrían a su disposición una biblioteca de cine en la que se puede filtrar por géneros y secciones,
