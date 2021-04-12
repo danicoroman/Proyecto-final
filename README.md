@@ -13,6 +13,7 @@ Puede servir,para el admin. poner sus recomendaciones en esta web y para los cli
 
 <h1>Herramientas necesarias</h1>
 <ul>
-<li>Wordpress para las bases de datos y la interactividad</li> 
+<li>Wordpress para la administración tanto de las secciones de la web como para la gestión de usuarios</li> 
 <li>Html para la estructura de la página</li> 
-<li>Bootstrap y CSS para la maquetación y estilos de la web</li></ul>
+<li>Bootstrap y CSS para la maquetación y estilos de la web</li>
+<li>Javascript y Jquery para la interactividad y eventos de la web</li></ul>
